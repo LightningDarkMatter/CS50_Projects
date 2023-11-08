@@ -18,7 +18,6 @@
 
 ### Project Set 2 - Loops
 - [camelCase](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/camel.py)
-        Coverts camelCase into snake case
 - [Coke Machine](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/coke.py)
 - [Just setting up my twttr](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/twttr.py)
 - [Vanity Plates](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/plates.py)
