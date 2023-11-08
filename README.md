@@ -3,7 +3,7 @@
 ## These are the projects I completed for Harvard CS50 Python
 
 ### Project Set 0 - Functions
-- Indoor Voice
+- [Indoor Voice](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/indoor.py)
 - Playback Speed
 - Making Faces
 - Einstein
