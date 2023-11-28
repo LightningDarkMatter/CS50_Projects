@@ -22,3 +22,9 @@
 - [Just setting up my twttr](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/twttr.py)
 - [Vanity Plates](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/plates.py)
 - [Nutritional Facts](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/nutrition.py)
+
+### Project Set 3 - Exceptions
+- [Fuel Gauge](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/fuel.py)
+- [Felipe's Taqueria](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/taqueria.py)
+- [Grocery List](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/grocery.py)
+- [Outdated](https://github.com/LightningDarkMatter/CS50_Python_Projects/blob/main/outdated.py)
